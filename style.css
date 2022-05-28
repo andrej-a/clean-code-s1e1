@@ -1,3 +1,7 @@
+* {
+  margin: 0;
+  padding: 0;
+}
 /* Basic Style */
 .wrapper {
   width: 100%;
