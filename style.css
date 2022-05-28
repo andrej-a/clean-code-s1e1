@@ -6,7 +6,8 @@
 /* Basic Style */
 .wrapper {
   width: 100%;
-  height: 100vh;
+  min-height: 100vh;
+  height: auto;
   background-color: #f8f8f8;
   color: #333;
   font-family: Lato, sans-serif;
@@ -181,3 +182,8 @@ button {
 .item_edit-mode .item__task-title {
   display: none;
 }
+
+.test__class {
+  display: none;
+}
+/*git rebase*/
