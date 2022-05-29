@@ -55,7 +55,7 @@
 }
 
 .incomplete-tasks__list, 
-#completed-tasks {
+.completed-tasks__list {
   margin: 0;
   padding: 0px;
 }
