@@ -164,7 +164,7 @@ button {
 }
 
 /* Completed */
-#completed-tasks .item__task-title {
+.completed-tasks .item__task-title {
   text-decoration: line-through;
   color: #888;
 }
